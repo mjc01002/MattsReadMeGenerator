@@ -131,9 +131,9 @@ const promptUser = () => {
           }
       },
     ]);
-  };
+  }
   
-  promptUser().then(answers => console.log(answers));
+  //promptUser().then(answers => console.log(answers));
 
 // Async function using util.promisify 
 async function init() {
