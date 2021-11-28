@@ -43,3 +43,9 @@ mjc01002<br />
 [mjc01002](https://github.com/mjc01002)<br />
 <br />
 Email me: stoncalkins@gmail.com<br /><br />
+
+## Instructional Video Link
+https://github.com/mjc01002/MattsReadMeGenerator/blob/main/video/Untitled_%20Nov%2028%2C%202021%205_10%20PM.webm
+
+## ScreenShot of Application
+![Image of Website](https://github.com/mjc01002/MattsReadMeGenerator/blob/main/screenshot.PNG?raw=true)
