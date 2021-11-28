@@ -42,7 +42,7 @@ ${answers.testInstructions}
 ## Contact Information
 ${answers.github}<br />
 <br />
-[${answers.github}](https://github.com/${answers.github})<br />
+GitHub Link:[${answers.github}](https://github.com/${answers.github})<br />
 <br />
 Email me: ${answers.emailAddress}<br /><br />
 `;
