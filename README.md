@@ -1,7 +1,8 @@
 
 <h1 align="center">Matts ReadMe Generator</h1>
   
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+## Note
+This readme was created with this application.  
 
 ## Description
 This application was created to generate a readme file using Node js for a project. 
